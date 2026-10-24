@@ -15,7 +15,7 @@ Get the latest version from [Releases](https://github.com/Carolux97/gears3-azura
 
 | System | File |
 | --- | --- |
-| macOS 13 or later, Apple Silicon (M1 or newer) | `Azura-Launcher_<version>_aarch64.dmg` |
+| macOS 13.3 or later, Apple Silicon (M1 or newer) | `Azura-Launcher_<version>_aarch64.dmg` |
 | Linux x86-64 (glibc 2.35 or newer, as Ubuntu 22.04) | `Azura-Launcher_<version>_amd64.AppImage` |
 
 Each release lists what it changes. A version may be published for one system first and get the
